@@ -55,7 +55,7 @@ jobs:
         uses: actions/github-script@v4
         with:
           script: |
-            const fs = require('fs').promises;
+            const fs = require('fs');
             const path = require('path');
             const rootPath = './bindings/';
             let itemIndex = 10;

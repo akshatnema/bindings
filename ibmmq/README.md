@@ -14,7 +14,6 @@ The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "S
 
 
 
-
 ## AsyncAPI considerations
 
 This specification binding requests that the AsyncAPI specification reserve the IBM MQ protocol to allow connections to queue manager endpoints to be defined within the server object.
