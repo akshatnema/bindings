@@ -12,6 +12,9 @@ Current version is `0.1.0`.
 
 The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED", "MAY", and "OPTIONAL" in this bindings specification are to be interpreted as described in IETF [RFC2119](https://www.ietf.org/rfc/rfc2119.txt).
 
+
+
+
 ## AsyncAPI considerations
 
 This specification binding requests that the AsyncAPI specification reserve the IBM MQ protocol to allow connections to queue manager endpoints to be defined within the server object.
